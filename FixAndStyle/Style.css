@@ -1,0 +1,67 @@
+.Poison {
+  background-color: purple;
+}
+
+a {
+  text-decoration: none;
+}
+
+a {
+  color: green;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+h2 {
+  color: blue;
+}
+
+.Doc {
+  color: orange;
+}
+
+h3 {
+  background-color: yellow;
+}
+
+.taxi {
+  color: red;
+}
+
+h1 {
+  background-color: purple;
+  color: white;
+}
+
+h4 {
+  background-color: green;
+  color: yellow;
+}
+
+.LightGreen {
+  background-color: lightgreen;
+}
+
+.default {
+  background-color: purple;
+}
+
+.Daughter {
+  background-color: yellow;
+}
+
+h5 {
+  color: red;
+}
+
+
+div {
+  background-color: yellow;
+}
+
+.Doc {
+  color: blue;
+}

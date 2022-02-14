@@ -1,0 +1,28 @@
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 0px solid red;
+}
+
+nav li {
+  border: 1px solid black;
+  margin-right: 10px;
+  padding: 0px;
+  width: 200px;
+  display: inline-block;
+}
+
+nav li a {
+  background-color: red;
+  display: block;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  background-image: linear-gradient(to top, #c70046, #be013e, #b40236, #ab042f, #a10528, #a00524, #9f0520, #9e051c, #a50519, #ac0616, #b30811, #b90b0b);
+}
+
+nav li a:hover {
+  background-color: #cc0000;
+  background-image: linear-gradient(to top, #c70046, #be013e, #b40236, #ab042f, #a10528, #a00524, #9f0520, #9e051c, #a50519, #ac0616, #b30811, #b90b0b);
+}

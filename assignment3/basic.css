@@ -1,0 +1,45 @@
+h1{
+  color:hotpink;
+}
+
+h2{
+  color:lightgreen;
+}
+
+h3{
+  color:yellow;
+}
+
+h4{
+  color: teal;
+}
+
+.CFA{
+  color:red;
+}
+
+
+p{
+  color: orange;
+}
+
+#CVA{
+  color: purple;
+}
+
+.CTC{
+  color:brown;
+  background-color: orange;
+}
+
+a:link{
+ color: red;
+}
+
+a:visited{
+ color:green;
+}
+
+a:hover{
+  color: yellow;
+}

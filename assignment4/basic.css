@@ -1,0 +1,75 @@
+body{
+  background-color: #CCCCCC;
+  background-image: url(darkrai.jpg);
+}
+
+h1{
+  color:hotpink;
+}
+
+h2{
+  color:lightgreen;
+}
+
+
+}
+
+h3{
+  color:yellow;
+}
+
+.boxmodel{
+  border: 5px solid black;
+padding: 10px 10px 10px 10px;
+}
+
+h4{
+  color: teal;
+}
+
+.CFA{
+  color:red;
+}
+
+.textjustified{
+  text-align: justify;
+}
+
+.change{
+  font-style: italic;
+  color: orange;
+}
+
+.textcenter{
+  text-align: center;
+}
+
+.customtext{
+  font-family: sans-serif;
+}
+
+
+p{
+  color: orange;
+}
+
+#CVA{
+  color: purple;
+}
+
+.CTC{
+  color:brown;
+  background-color: orange;
+}
+
+a:link{
+ color: red;
+}
+
+a:visited{
+ color:green;
+}
+
+a:hover{
+  color: yellow;
+}

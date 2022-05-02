@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Ethan's Website</title>
+	<link href="EthanSite.css" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"/>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+</head>
+<body>
+	<div id="wrapper">
+		<header>
+			<h1>Ethan's Website</h1>
+		</header>
+
+		<nav>
+			<ul>
+				<li class="centered"><a href="EthanSiteHome.html">Home</a></li>
+				<li class="centered"><a href="EthanSiteAbout.html">About</a></li>
+				<li class="centered"><a href="EthanSiteAssignment.html">Assignment</a></li>
+			</ul>
+		</nav>
+<body>
+    <div id="mygallery">
+    <a
+    href="Dark_Heart.jpg"
+    data-fancybox="gallery"
+    data-caption="Dark Heart">
+    <img src="Dark_Heart_thumb.jpg"></a>
+
+
+    <a
+    href="Remix.jpg"
+    data-fancybox="gallery"
+    data-caption="Remix">
+    <img src="Remix_thumb.jpg"></a>
+
+    <a
+    href="Vandalism_Assignment.jpg"
+    data-fancybox="gallery"
+    data-caption="Vandalism">
+    <img src="Vandalism_Assignment_thumb.jpg"></a>
+  </div>
+  <script>
+  const myCarousel = new Carousel(document.querySelector("#myCarousel"), {
+  // Your options go here
+  'center' : false,
+  'slidesPerPage' : 3
+});
+  </script>
+
+		<footer>
+			<p>Copyright 2022 Illinois State University</p>
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+			<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+		</footer>
+
+	</div>
+</body>
+</html>
